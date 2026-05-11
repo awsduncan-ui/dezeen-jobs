@@ -12,4 +12,5 @@ window.JOBS_DATA = [
   {"date": "2026-05-11", "location": "Worcester, UK", "company": "DJD Architects", "title": "Part 2 architectural assistant", "salary": "£30,000 - £35,000", "link": "https://www.dezeenjobs.com/job/djd-architects-part-2-architectural-assistant-1088870/"},
   {"date": "2026-05-11", "location": "Cotswolds, UK", "company": "Haines Gadd Greaves", "title": "Project architect", "salary": "Undisclosed", "link": "https://www.dezeenjobs.com/job/haines-gadd-greaves-project-architect-1089633/"}
 ];
+
 window.JOBS_UPDATED = "11 May 2026";
