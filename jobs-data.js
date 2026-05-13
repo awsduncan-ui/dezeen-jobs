@@ -1,4 +1,7 @@
 window.JOBS_DATA = [
+  {"date": "2026-05-13", "location": "Essex, UK", "company": "John Finch Partnership", "title": "Part 2 Architectural Assistant/Architect", "salary": "", "link": "https://www.dezeenjobs.com/job/john-finch-partnership-part-2-architectural-assistant-architect-1076149/"},
+  {"date": "2026-05-13", "location": "Manchester, UK", "company": "Cartwright Pickard", "title": "Architect", "salary": "", "link": "https://www.dezeenjobs.com/job/cartwright-pickard-architect-1063259/"},
+  {"date": "2026-05-13", "location": "Frome, Somerset, UK", "company": "Studio Saar", "title": "Part 1 Architectural Assistant", "salary": "", "link": "https://www.dezeenjobs.com/job/studio-saar-riba-part-1-architectural-assistant-1039485/"},
   {"date": "2026-05-03", "location": "Bath, UK", "company": "Clover Studio", "title": "Part 3 architect", "salary": "", "link": "https://www.dezeenjobs.com/job/clover-studio-architect-part-iii-bristol-bath-south-west-1088417/"},
   {"date": "2026-05-09", "location": "Bristol or Ross-on-Wye, UK", "company": "Co&Co Architects", "title": "Architect", "salary": "", "link": "https://www.dezeenjobs.com/job/co-co-architects-architect-1089399/"},
   {"date": "2026-05-09", "location": "Bristol, UK", "company": "HTA Design", "title": "Architect", "salary": "£39,000 – £44,000", "link": "https://www.dezeenjobs.com/job/hta-design-architect-1084768/"},
@@ -19,5 +22,4 @@ window.JOBS_DATA = [
   {"date": "2026-05-12", "location": "Wiltshire, UK", "company": "Milton Architects", "title": "Architect", "salary": "", "link": "https://www.dezeenjobs.com/job/milton-architects-ltd-architect-1047282/"},
   {"date": "2026-05-12", "location": "Wiltshire, UK", "company": "Milton Architects", "title": "Architect", "salary": "", "link": "https://www.dezeenjobs.com/job/milton-architects-ltd-architect-1074065/"}
 ];
-
-window.JOBS_UPDATED = "12 May 2026";
+window.JOBS_UPDATED = "13 May 2026";
