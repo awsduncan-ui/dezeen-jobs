@@ -1,7 +1,4 @@
 window.JOBS_DATA = [
-  {"date": "2026-05-13", "location": "Essex, UK", "company": "John Finch Partnership", "title": "Part 2 Architectural Assistant/Architect", "salary": "", "link": "https://www.dezeenjobs.com/job/john-finch-partnership-part-2-architectural-assistant-architect-1076149/"},
-  {"date": "2026-05-13", "location": "Manchester, UK", "company": "Cartwright Pickard", "title": "Architect", "salary": "", "link": "https://www.dezeenjobs.com/job/cartwright-pickard-architect-1063259/"},
-  {"date": "2026-05-13", "location": "Frome, Somerset, UK", "company": "Studio Saar", "title": "Part 1 Architectural Assistant", "salary": "", "link": "https://www.dezeenjobs.com/job/studio-saar-riba-part-1-architectural-assistant-1039485/"},
   {"date": "2026-05-03", "location": "Bath, UK", "company": "Clover Studio", "title": "Part 3 architect", "salary": "", "link": "https://www.dezeenjobs.com/job/clover-studio-architect-part-iii-bristol-bath-south-west-1088417/"},
   {"date": "2026-05-09", "location": "Bristol or Ross-on-Wye, UK", "company": "Co&Co Architects", "title": "Architect", "salary": "", "link": "https://www.dezeenjobs.com/job/co-co-architects-architect-1089399/"},
   {"date": "2026-05-09", "location": "Bristol, UK", "company": "HTA Design", "title": "Architect", "salary": "£39,000 – £44,000", "link": "https://www.dezeenjobs.com/job/hta-design-architect-1084768/"},
@@ -12,14 +9,9 @@ window.JOBS_DATA = [
   {"date": "2026-05-09", "location": "Bristol, UK", "company": "Oxford Architects", "title": "Architect", "salary": "£35,000", "link": "https://www.dezeenjobs.com/job/oxford-architects-llp-architect-1070749/"},
   {"date": "2026-05-09", "location": "Bristol, UK", "company": "Oxford Architects", "title": "Post-Part 2 Architectural Assistant", "salary": "£30,000", "link": "https://www.dezeenjobs.com/job/oxford-architects-llp-post-part-2-architectural-assistant-1070769/"},
   {"date": "2026-05-09", "location": "Oxfordshire, UK", "company": "Emma Kirby Design", "title": "In-house Architect/Architectural Technician", "salary": "", "link": "https://www.dezeenjobs.com/job/emma-kirby-design-ltd-in-house-architect-architectural-technician-1027052/"},
-  {"date": "2026-05-11", "location": "Worcester, UK", "company": "DJD Architects", "title": "Part 2 Architectural Assistant", "salary": "£30,000 – £35,000", "link": "https://www.dezeenjobs.com/job/djd-architects-part-2-architectural-assistant-1088870/"},
-  {"date": "2026-05-11", "location": "Cotswolds, UK", "company": "Haines Gadd Greaves", "title": "Project Architect", "salary": "Undisclosed", "link": "https://www.dezeenjobs.com/job/haines-gadd-greaves-project-architect-1089633/"},
-  {"date": "2026-05-12", "location": "Sheffield, UK", "company": "Peak Architects", "title": "Part 2 Architectural Assistant", "salary": "", "link": "https://www.dezeenjobs.com/job/peak-architects-part-2-architectural-assistant-1071101/"},
-  {"date": "2026-05-12", "location": "Edinburgh, UK", "company": "HTA Design", "title": "Senior Architect", "salary": "", "link": "https://www.dezeenjobs.com/job/hta-design-senior-architect-1068703/"},
-  {"date": "2026-05-12", "location": "Birmingham, UK", "company": "The Space* Studio", "title": "Interior Designer/Interior Architect", "salary": "", "link": "https://www.dezeenjobs.com/job/the-space-studio-architecture-and-interior-design-interior-designer-interior-architect-1065918/"},
-  {"date": "2026-05-12", "location": "Cotswolds, UK", "company": "James Mackintosh Architects", "title": "Senior Architect/Architectural Technician", "salary": "", "link": "https://www.dezeenjobs.com/job/james-mackintosh-architects-senior-architect-architectural-technician-1050959/"},
-  {"date": "2026-05-12", "location": "Hertfordshire, UK", "company": "Seth White Architects", "title": "Part 2 Architectural Assistant", "salary": "", "link": "https://www.dezeenjobs.com/job/seth-white-architects-part-2-architectural-assistant-1075197/"},
-  {"date": "2026-05-12", "location": "Wiltshire, UK", "company": "Milton Architects", "title": "Architect", "salary": "", "link": "https://www.dezeenjobs.com/job/milton-architects-ltd-architect-1047282/"},
-  {"date": "2026-05-12", "location": "Wiltshire, UK", "company": "Milton Architects", "title": "Architect", "salary": "", "link": "https://www.dezeenjobs.com/job/milton-architects-ltd-architect-1074065/"}
+  {"date": "2026-05-11", "location": "Worcester, UK", "company": "DJD Architects", "title": "Part 2 architectural assistant", "salary": "£30,000 - £35,000", "link": "https://www.dezeenjobs.com/job/djd-architects-part-2-architectural-assistant-1088870/"},
+  {"date": "2026-05-11", "location": "Cotswolds, UK", "company": "Haines Gadd Greaves", "title": "Project architect", "salary": "Undisclosed", "link": "https://www.dezeenjobs.com/job/haines-gadd-greaves-project-architect-1089633/"},
+  {"date": "2026-05-14", "location": "West Sussex, UK", "company": "Adam Richards Architects", "title": "Project architect", "salary": "", "link": "https://www.dezeenjobs.com/job/adam-richards-architects-project-architect-1071489/"},
+  {"date": "2026-05-14", "location": "Essex, UK", "company": "John Finch Partnership", "title": "Part 2 architectural assistant/architect", "salary": "", "link": "https://www.dezeenjobs.com/job/john-finch-partnership-part-2-architectural-assistant-architect-1076149/"}
 ];
-window.JOBS_UPDATED = "13 May 2026";
+window.JOBS_UPDATED = "14 May 2026";
