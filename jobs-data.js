@@ -12,6 +12,9 @@ window.JOBS_DATA = [
   {"date": "2026-05-11", "location": "Worcester, UK", "company": "DJD Architects", "title": "Part 2 architectural assistant", "salary": "£30,000 - £35,000", "link": "https://www.dezeenjobs.com/job/djd-architects-part-2-architectural-assistant-1088870/"},
   {"date": "2026-05-11", "location": "Cotswolds, UK", "company": "Haines Gadd Greaves", "title": "Project architect", "salary": "Undisclosed", "link": "https://www.dezeenjobs.com/job/haines-gadd-greaves-project-architect-1089633/"},
   {"date": "2026-05-14", "location": "West Sussex, UK", "company": "Adam Richards Architects", "title": "Project architect", "salary": "", "link": "https://www.dezeenjobs.com/job/adam-richards-architects-project-architect-1071489/"},
-  {"date": "2026-05-14", "location": "Essex, UK", "company": "John Finch Partnership", "title": "Part 2 architectural assistant/architect", "salary": "", "link": "https://www.dezeenjobs.com/job/john-finch-partnership-part-2-architectural-assistant-architect-1076149/"}
+  {"date": "2026-05-14", "location": "Essex, UK", "company": "John Finch Partnership", "title": "Part 2 architectural assistant/architect", "salary": "", "link": "https://www.dezeenjobs.com/job/john-finch-partnership-part-2-architectural-assistant-architect-1076149/"},
+  {"date": "2026-05-15", "location": "Cotswolds, UK", "company": "James Mackintosh Architects", "title": "Senior Architect/Architectural Technician", "salary": "", "link": "https://www.dezeenjobs.com/job/james-mackintosh-architects-senior-architect-architectural-technician-1050959/"},
+  {"date": "2026-05-15", "location": "Bristol, UK", "company": "WH Architects", "title": "Architectural Assistant", "salary": "", "link": "https://www.dezeenjobs.com/job/wh-architects-architectural-assistant-1049758/"},
+  {"date": "2026-05-15", "location": "Sheffield, UK", "company": "Peak Architects", "title": "Part 2 Architectural Assistant", "salary": "", "link": "https://www.dezeenjobs.com/job/peak-architects-part-2-architectural-assistant-1071101/"}
 ];
-window.JOBS_UPDATED = "14 May 2026";
+window.JOBS_UPDATED = "15 May 2026";
