@@ -17,4 +17,4 @@ window.JOBS_DATA = [
   {"date": "2026-05-15", "location": "Bristol, UK", "company": "WH Architects", "title": "Architectural Assistant", "salary": "", "link": "https://www.dezeenjobs.com/job/wh-architects-architectural-assistant-1049758/"},
   {"date": "2026-05-15", "location": "Sheffield, UK", "company": "Peak Architects", "title": "Part 2 Architectural Assistant", "salary": "", "link": "https://www.dezeenjobs.com/job/peak-architects-part-2-architectural-assistant-1071101/"}
 ];
-window.JOBS_UPDATED = "15 May 2026";
+window.JOBS_UPDATED = "16 May 2026";
