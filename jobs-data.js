@@ -15,6 +15,10 @@ window.JOBS_DATA = [
   {"date": "2026-05-14", "location": "Essex, UK", "company": "John Finch Partnership", "title": "Part 2 architectural assistant/architect", "salary": "", "link": "https://www.dezeenjobs.com/job/john-finch-partnership-part-2-architectural-assistant-architect-1076149/"},
   {"date": "2026-05-15", "location": "Cotswolds, UK", "company": "James Mackintosh Architects", "title": "Senior Architect/Architectural Technician", "salary": "", "link": "https://www.dezeenjobs.com/job/james-mackintosh-architects-senior-architect-architectural-technician-1050959/"},
   {"date": "2026-05-15", "location": "Bristol, UK", "company": "WH Architects", "title": "Architectural Assistant", "salary": "", "link": "https://www.dezeenjobs.com/job/wh-architects-architectural-assistant-1049758/"},
-  {"date": "2026-05-15", "location": "Sheffield, UK", "company": "Peak Architects", "title": "Part 2 Architectural Assistant", "salary": "", "link": "https://www.dezeenjobs.com/job/peak-architects-part-2-architectural-assistant-1071101/"}
+  {"date": "2026-05-15", "location": "Sheffield, UK", "company": "Peak Architects", "title": "Part 2 Architectural Assistant", "salary": "", "link": "https://www.dezeenjobs.com/job/peak-architects-part-2-architectural-assistant-1071101/"},
+  {"date": "2026-05-17", "location": "Essex, UK", "company": "Edward Parsley Associates", "title": "Experienced architect/designer", "salary": "", "link": "https://www.dezeenjobs.com/job/edward-parsley-associates-experienced-architect-designer-998964/"},
+  {"date": "2026-05-17", "location": "Frome, UK", "company": "Studio Saar", "title": "Part 1 architectural assistant", "salary": "", "link": "https://www.dezeenjobs.com/job/studio-saar-riba-part-1-architectural-assistant-1039485/"},
+  {"date": "2026-05-17", "location": "Hertfordshire, UK", "company": "Enviro Furniture", "title": "CAD designer", "salary": "", "link": "https://www.dezeenjobs.com/job/bobnik-unique-ltd-t-m-enviro-furniture-cad-designer-1041065/"},
+  {"date": "2026-05-17", "location": "York, UK", "company": "brown + company", "title": "Architect or Part 2 architectural assistant", "salary": "", "link": "https://www.dezeenjobs.com/job/brown-company-architect-or-part-ii-architectural-assistant-1001572/"}
 ];
-window.JOBS_UPDATED = "16 May 2026";
+window.JOBS_UPDATED = "17 May 2026";
