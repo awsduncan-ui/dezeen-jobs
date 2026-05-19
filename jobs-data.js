@@ -1,4 +1,13 @@
 window.JOBS_DATA = [
+  {"date": "2026-05-19", "location": "Worcester, UK", "company": "DJD Architects", "title": "Part 2 architectural assistant", "salary": "£30,000 - £35,000", "link": "https://www.dezeenjobs.com/job/djd-architects-part-2-architectural-assistant-1088870/"},
+  {"date": "2026-05-19", "location": "Hertfordshire, UK", "company": "Brick Architects", "title": "Architect/architectural technologist", "salary": "£40,000 - £45,000", "link": "https://www.dezeenjobs.com/job/brick-architects-architect-architectural-technologist-1091510/"},
+  {"date": "2026-05-19", "location": "York, UK", "company": "brown + company", "title": "Architect/architectural technologist", "salary": "", "link": "https://www.dezeenjobs.com/job/brown-company-architect-architectural-technologist-1091037/"},
+  {"date": "2026-05-19", "location": "Norwich, UK", "company": "Norwich University of the Arts", "title": "Part-time hourly lecturer - architecture", "salary": "£46.71 per teaching hour", "link": "https://www.dezeenjobs.com/job/norwich-university-of-the-arts-part-time-hourly-lecturer-architecture-1090137/"},
+  {"date": "2026-05-19", "location": "Hampshire, UK", "company": "Re-Format", "title": "Junior architect/Part 2 architectural assistant", "salary": "", "link": "https://www.dezeenjobs.com/job/re-format-llp-junior-architect-part-2-architectural-assistant-1090541/"},
+  {"date": "2026-05-19", "location": "Watford, UK", "company": "Fluid Glass", "title": "Assistant design manager", "salary": "£30,000 - £35,000", "link": "https://www.dezeenjobs.com/job/fluid-glass-assistant-design-manager-1090317/"},
+  {"date": "2026-05-19", "location": "Cotswolds, UK", "company": "Haines Gadd Greaves", "title": "Project architect", "salary": "", "link": "https://www.dezeenjobs.com/job/haines-gadd-greaves-project-architect-1089633/"},
+  {"date": "2026-05-19", "location": "Edinburgh, UK", "company": "Moleta Munro", "title": "Showroom and sales assistant", "salary": "£25,000 - £30,000", "link": "https://www.dezeenjobs.com/job/moleta-munro-showroom-sales-assistant-1086787/"},
+  {"date": "2026-05-19", "location": "Sussex, UK", "company": "The Vawdrey House", "title": "Architectural and interior designers", "salary": "", "link": "https://www.dezeenjobs.com/job/the-vawdrey-house-architectural-and-interior-designers-1085762/"},
   {"date": "2026-05-18", "location": "Bath, UK", "company": "Clover Studio", "title": "Part 3 architect", "salary": "", "link": "https://www.dezeenjobs.com/job/clover-studio-architect-part-iii-bristol-bath-south-west-1088417/"},
   {"date": "2026-05-18", "location": "Bristol, UK", "company": "WH Architects", "title": "Architectural assistant", "salary": "", "link": "https://www.dezeenjobs.com/job/wh-architects-architectural-assistant-1049758/"},
   {"date": "2026-05-18", "location": "Bristol, UK", "company": "WH Architects", "title": "Part 2/3 architect/architectural technologist", "salary": "", "link": "https://www.dezeenjobs.com/job/wh-architects-part-2-3-architect-architectural-technlogist-1071236/"},
@@ -21,4 +30,4 @@ window.JOBS_DATA = [
   {"date": "2026-05-18", "location": "Oxford, UK", "company": "Riach Architects", "title": "Part 2 architectural assistant", "salary": "", "link": ""},
   {"date": "2026-05-18", "location": "Edinburgh, Scotland", "company": "Moleta Munro", "title": "Showroom and sales assistant", "salary": "", "link": ""},
 ];
-window.JOBS_UPDATED = "18 May 2026";
+window.JOBS_UPDATED = "19 May 2026";
