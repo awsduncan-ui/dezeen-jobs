@@ -30,4 +30,4 @@ window.JOBS_DATA = [
   {"date": "2026-05-18", "location": "Oxford, UK", "company": "Riach Architects", "title": "Part 2 architectural assistant", "salary": "", "link": ""},
   {"date": "2026-05-18", "location": "Edinburgh, Scotland", "company": "Moleta Munro", "title": "Showroom and sales assistant", "salary": "", "link": ""},
 ];
-window.JOBS_UPDATED = "19 May 2026";
+window.JOBS_UPDATED = "20 May 2026";
