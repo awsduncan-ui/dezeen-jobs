@@ -19,4 +19,4 @@ window.JOBS_DATA = [
   {"date": "2026-05-21", "location": "Suffolk, UK", "company": "Project Orange", "title": "Part 2/3 architect", "salary": "£35,000 - £40,000", "link": "https://www.dezeenjobs.com/job/project-orange-part-2-3-architect-1092058/"},
   {"date": "2026-05-21", "location": "Hertfordshire, UK", "company": "Brick Architects", "title": "Architect/architectural technologist", "salary": "£40,000 - £45,000", "link": "https://www.dezeenjobs.com/job/brick-architects-architect-architectural-technologist-1091510/"}
 ];
-window.JOBS_UPDATED = "24 May 2026";
+window.JOBS_UPDATED = "25 May 2026";
