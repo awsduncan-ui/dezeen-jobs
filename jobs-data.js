@@ -17,6 +17,7 @@ window.JOBS_DATA = [
   {"date": "2026-05-15", "location": "Bristol, UK", "company": "WH Architects", "title": "Architectural Assistant", "salary": "", "link": "https://www.dezeenjobs.com/job/wh-architects-architectural-assistant-1049758/"},
   {"date": "2026-05-15", "location": "Sheffield, UK", "company": "Peak Architects", "title": "Part 2 Architectural Assistant", "salary": "", "link": "https://www.dezeenjobs.com/job/peak-architects-part-2-architectural-assistant-1071101/"},
   {"date": "2026-05-21", "location": "Suffolk, UK", "company": "Project Orange", "title": "Part 2/3 architect", "salary": "£35,000 - £40,000", "link": "https://www.dezeenjobs.com/job/project-orange-part-2-3-architect-1092058/"},
-  {"date": "2026-05-21", "location": "Hertfordshire, UK", "company": "Brick Architects", "title": "Architect/architectural technologist", "salary": "£40,000 - £45,000", "link": "https://www.dezeenjobs.com/job/brick-architects-architect-architectural-technologist-1091510/"}
+  {"date": "2026-05-21", "location": "Hertfordshire, UK", "company": "Brick Architects", "title": "Architect/architectural technologist", "salary": "£40,000 - £45,000", "link": "https://www.dezeenjobs.com/job/brick-architects-architect-architectural-technologist-1091510/"},
+  {"date": "2026-05-29", "location": "Nottingham, UK", "company": "Other Side Studio", "title": "Mid-weight interior designer", "salary": "Undisclosed", "link": "https://www.dezeenjobs.com/job/other-side-studio-mid-weight-interior-designer-1093645/"}
 ];
-window.JOBS_UPDATED = "25 May 2026";
+window.JOBS_UPDATED = "29 May 2026";
