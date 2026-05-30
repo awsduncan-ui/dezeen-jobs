@@ -20,4 +20,4 @@ window.JOBS_DATA = [
   {"date": "2026-05-21", "location": "Hertfordshire, UK", "company": "Brick Architects", "title": "Architect/architectural technologist", "salary": "£40,000 - £45,000", "link": "https://www.dezeenjobs.com/job/brick-architects-architect-architectural-technologist-1091510/"},
   {"date": "2026-05-29", "location": "Nottingham, UK", "company": "Other Side Studio", "title": "Mid-weight interior designer", "salary": "Undisclosed", "link": "https://www.dezeenjobs.com/job/other-side-studio-mid-weight-interior-designer-1093645/"}
 ];
-window.JOBS_UPDATED = "29 May 2026";
+window.JOBS_UPDATED = "30 May 2026";
