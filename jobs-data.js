@@ -20,5 +20,10 @@ window.JOBS_DATA = [
   {"date": "2026-05-21", "location": "Hertfordshire, UK", "company": "Brick Architects", "title": "Architect/architectural technologist", "salary": "£40,000 - £45,000", "link": "https://www.dezeenjobs.com/job/brick-architects-architect-architectural-technologist-1091510/"},
   {"date": "2026-06-01", "location": "Bristol, UK (remote)", "company": "Artelier", "title": "Senior art consultant and project manager", "salary": "£40,000 - £55,000", "link": "https://www.dezeenjobs.com/job/artelier-senior-art-consultant-project-manager-1093411/"},
   {"date": "2026-06-01", "location": "Stroud, UK", "company": "Common Works", "title": "Architect", "salary": "", "link": "https://www.dezeenjobs.com/job/common-works-architect-1062874/"},
+  {"date": "2026-06-02", "location": "Bristol, UK", "company": "WH Architects", "title": "Architectural Technologist", "salary": "", "link": "https://www.dezeenjobs.com/job/wh-architects-architectural-technologist-993176/"},
+  {"date": "2026-06-02", "location": "North Oxfordshire, UK", "company": "Charlie Luxton Design", "title": "Part-II Architectural Assistant", "salary": "", "link": "https://www.dezeenjobs.com/job/charlie-luxton-design-part-ii-architectural-assistant-19606/"},
+  {"date": "2026-06-02", "location": "Oxford, UK", "company": "Oxford Architects", "title": "Part 1/Part 2 Architectural Assistant", "salary": "", "link": "https://www.dezeenjobs.com/job/oxford-architects-llp-part-1-part-2-architectural-assistant-997666/"},
+  {"date": "2026-06-02", "location": "Cambridge, UK", "company": "Oxford Architects", "title": "Architect", "salary": "", "link": "https://www.dezeenjobs.com/job/oxford-architects-llp-architect-978105/"},
+  {"date": "2026-06-02", "location": "Oxfordshire, UK", "company": "James Mackintosh Architects", "title": "Senior Architectural Technician", "salary": "", "link": "https://www.dezeenjobs.com/job/james-mackintosh-architects-senior-architectural-technician-998250/"}
 ];
-window.JOBS_UPDATED = "1 June 2026";
+window.JOBS_UPDATED = "2 June 2026";
