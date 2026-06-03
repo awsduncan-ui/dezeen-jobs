@@ -24,6 +24,8 @@ window.JOBS_DATA = [
   {"date": "2026-06-02", "location": "North Oxfordshire, UK", "company": "Charlie Luxton Design", "title": "Part-II Architectural Assistant", "salary": "", "link": "https://www.dezeenjobs.com/job/charlie-luxton-design-part-ii-architectural-assistant-19606/"},
   {"date": "2026-06-02", "location": "Oxford, UK", "company": "Oxford Architects", "title": "Part 1/Part 2 Architectural Assistant", "salary": "", "link": "https://www.dezeenjobs.com/job/oxford-architects-llp-part-1-part-2-architectural-assistant-997666/"},
   {"date": "2026-06-02", "location": "Cambridge, UK", "company": "Oxford Architects", "title": "Architect", "salary": "", "link": "https://www.dezeenjobs.com/job/oxford-architects-llp-architect-978105/"},
-  {"date": "2026-06-02", "location": "Oxfordshire, UK", "company": "James Mackintosh Architects", "title": "Senior Architectural Technician", "salary": "", "link": "https://www.dezeenjobs.com/job/james-mackintosh-architects-senior-architectural-technician-998250/"}
+  {"date": "2026-06-02", "location": "Oxfordshire, UK", "company": "James Mackintosh Architects", "title": "Senior Architectural Technician", "salary": "", "link": "https://www.dezeenjobs.com/job/james-mackintosh-architects-senior-architectural-technician-998250/"},
+  {"date": "2026-06-03", "location": "Surrey, UK", "company": "Black Graphite Architects", "title": "Part 2 assistant/Part 3 architect", "salary": "£25,000 - £30,000", "link": "https://www.dezeenjobs.com/job/black-graphite-architects-part-2-assistant-part-3-architect-650912/"},
+  {"date": "2026-06-03", "location": "Northamptonshire, UK", "company": "North Northamptonshire Council", "title": "Lead officer – heritage and place", "salary": "£59,077 - £62,879", "link": "https://www.dezeenjobs.com/job/north-northamptonshire-council-lead-officer-heritage-and-place-1095238/"}
 ];
-window.JOBS_UPDATED = "2 June 2026";
+window.JOBS_UPDATED = "3 June 2026";
