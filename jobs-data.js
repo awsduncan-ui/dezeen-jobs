@@ -23,6 +23,7 @@ window.JOBS_DATA = [
   {"date": "2026-06-06", "location": "Leicester, UK", "company": "Brown Studio", "title": "Part 2/3 architect/interior designer", "salary": "Undisclosed", "link": "https://www.dezeenjobs.com/job/brown-studio-part-2-3-architect-interior-designer-248203/"},
   {"date": "2026-06-06", "location": "Manchester, UK", "company": "Denton Corker Marshall", "title": "Project architect", "salary": "Undisclosed", "link": "https://www.dezeenjobs.com/job/denton-corker-marshall-llp-project-architect-1095595/"},
   {"date": "2026-06-06", "location": "Surrey, UK", "company": "Black Graphite Architects", "title": "Part 2 assistant/Part 3 architect", "salary": "£25000 - £30000", "link": "https://www.dezeenjobs.com/job/black-graphite-architects-part-2-assistant-part-3-architect-650912/"},
-  {"date": "2026-06-06", "location": "Northamptonshire, UK", "company": "North Northamptonshire Council", "title": "Lead officer - heritage and place", "salary": "£59077 - £62879", "link": "https://www.dezeenjobs.com/job/north-northamptonshire-council-lead-officer-heritage-and-place-1095238/"}
+  {"date": "2026-06-06", "location": "Northamptonshire, UK", "company": "North Northamptonshire Council", "title": "Lead officer - heritage and place", "salary": "£59077 - £62879", "link": "https://www.dezeenjobs.com/job/north-northamptonshire-council-lead-officer-heritage-and-place-1095238/"},
+  {"date": "2026-06-09", "location": "Manchester, UK", "company": "Portfolio Kitchens & Bathrooms", "title": "Sales designer", "salary": "£40,000 - £60,000", "link": "https://www.dezeenjobs.com/job/portfolio-kitchens-bathrooms-sales-designer-1096666/"}
 ];
-window.JOBS_UPDATED = "7 June 2026";
+window.JOBS_UPDATED = "9 June 2026";
