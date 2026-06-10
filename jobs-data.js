@@ -26,4 +26,4 @@ window.JOBS_DATA = [
   {"date": "2026-06-06", "location": "Northamptonshire, UK", "company": "North Northamptonshire Council", "title": "Lead officer - heritage and place", "salary": "£59077 - £62879", "link": "https://www.dezeenjobs.com/job/north-northamptonshire-council-lead-officer-heritage-and-place-1095238/"},
   {"date": "2026-06-09", "location": "Manchester, UK", "company": "Portfolio Kitchens & Bathrooms", "title": "Sales designer", "salary": "£40,000 - £60,000", "link": "https://www.dezeenjobs.com/job/portfolio-kitchens-bathrooms-sales-designer-1096666/"}
 ];
-window.JOBS_UPDATED = "9 June 2026";
+window.JOBS_UPDATED = "10 June 2026";
