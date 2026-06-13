@@ -24,8 +24,8 @@ window.JOBS_DATA = [
   {"date": "2026-06-06", "location": "Manchester, UK", "company": "Denton Corker Marshall", "title": "Project architect", "salary": "Undisclosed", "link": "https://www.dezeenjobs.com/job/denton-corker-marshall-llp-project-architect-1095595/"},
   {"date": "2026-06-06", "location": "Surrey, UK", "company": "Black Graphite Architects", "title": "Part 2 assistant/Part 3 architect", "salary": "£25000 - £30000", "link": "https://www.dezeenjobs.com/job/black-graphite-architects-part-2-assistant-part-3-architect-650912/"},
   {"date": "2026-06-06", "location": "Northamptonshire, UK", "company": "North Northamptonshire Council", "title": "Lead officer - heritage and place", "salary": "£59077 - £62879", "link": "https://www.dezeenjobs.com/job/north-northamptonshire-council-lead-officer-heritage-and-place-1095238/"},
-  {"date": "2026-06-12", "location": "Canterbury, UK", "company": "James Clague Architects", "title": "Project architect – heritage and conservation", "salary": "£45,000 - £50,000", "link": "https://www.dezeenjobs.com/job/james-clague-architects-project-architect-heritage-and-conservation-1097487/"},
-  {"date": "2026-06-12", "location": "Washington, UK", "company": "Novocastrian", "title": "Senior product designer", "salary": "£35,000 - £40,000", "link": "https://www.dezeenjobs.com/job/novocastrian-senior-product-designer-1097220/"},
-  {"date": "2026-06-12", "location": "Manchester, UK", "company": "Portfolio Kitchens & Bathrooms", "title": "Sales designer", "salary": "£40,000 - £60,000", "link": "https://www.dezeenjobs.com/job/portfolio-kitchens-bathrooms-sales-designer-1096666/"}
+  {"date": "2026-06-12", "location": "Canterbury, UK", "company": "James Clague Architects", "title": "Project architect – heritage and conservation", "salary": "£45000 - £50000", "link": "https://www.dezeenjobs.com/job/james-clague-architects-project-architect-heritage-and-conservation-1097487/"},
+  {"date": "2026-06-12", "location": "Washington, UK", "company": "Novocastrian", "title": "Senior product designer", "salary": "£35000 - £40000", "link": "https://www.dezeenjobs.com/job/novocastrian-senior-product-designer-1097220/"},
+  {"date": "2026-06-12", "location": "Manchester, UK", "company": "Portfolio Kitchens & Bathrooms", "title": "Sales designer", "salary": "£40000 - £60000", "link": "https://www.dezeenjobs.com/job/portfolio-kitchens-bathrooms-sales-designer-1096666/"}
 ];
-window.JOBS_UPDATED = "12 June 2026";
+window.JOBS_UPDATED = "13 June 2026";
