@@ -28,4 +28,4 @@ window.JOBS_DATA = [
   {"date": "2026-06-12", "location": "Washington, UK", "company": "Novocastrian", "title": "Senior product designer", "salary": "£35000 - £40000", "link": "https://www.dezeenjobs.com/job/novocastrian-senior-product-designer-1097220/"},
   {"date": "2026-06-12", "location": "Manchester, UK", "company": "Portfolio Kitchens & Bathrooms", "title": "Sales designer", "salary": "£40000 - £60000", "link": "https://www.dezeenjobs.com/job/portfolio-kitchens-bathrooms-sales-designer-1096666/"}
 ];
-window.JOBS_UPDATED = "13 June 2026";
+window.JOBS_UPDATED = "14 June 2026";
