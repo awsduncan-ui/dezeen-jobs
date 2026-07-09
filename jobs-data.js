@@ -35,6 +35,10 @@ window.JOBS_DATA = [
   {"date": "2026-07-01", "location": "St Albans, UK", "company": "Sheldon Peever Studio", "title": "Part 2/3 architectural assistant", "salary": "Undisclosed", "link": "https://www.dezeenjobs.com/job/sheldon-peever-studio-part-2-3-architectural-assistant-1098012/"},
   {"date": "2026-07-01", "location": "Surrey, UK", "company": "Lindi Reynolds & Co.", "title": "Part-time marketing and special projects lead", "salary": "Up to £25000", "link": "https://www.dezeenjobs.com/job/lindi-reynolds-co-architectural-interior-design-marketing-and-special-projects-lead-1098391/"},
   {"date": "2026-07-01", "location": "Manchester, UK", "company": "Weston Williamson + Partners", "title": "Part 2 architectural assistants", "salary": "Undisclosed", "link": "https://www.dezeenjobs.com/job/wwp-part-2-architectural-assistants-1098882/"},
-  {"date": "2026-07-01", "location": "Manchester, UK", "company": "Weston Williamson + Partners", "title": "Architects", "salary": "Undisclosed", "link": "https://www.dezeenjobs.com/job/wwp-architects-1098890/"}
+  {"date": "2026-07-01", "location": "Manchester, UK", "company": "Weston Williamson + Partners", "title": "Architects", "salary": "Undisclosed", "link": "https://www.dezeenjobs.com/job/wwp-architects-1098890/"},
+  {"date": "2026-07-09", "location": "Birmingham, UK", "company": "ADP", "title": "Architect", "salary": "Undisclosed", "link": "https://www.dezeenjobs.com/job/adp-architect-1101012/"},
+  {"date": "2026-07-09", "location": "Edinburgh, UK", "company": "Somner Macdonald Architects", "title": "Project architect", "salary": "Undisclosed", "link": "https://www.dezeenjobs.com/job/somner-macdonald-architects-project-architect-1098342/"},
+  {"date": "2026-07-09", "location": "Hampshire, UK", "company": "PAD studio", "title": "Part 2 architectural assistant", "salary": "£25,000 - £30,000", "link": "https://www.dezeenjobs.com/job/pad-studio-ltd-part-ii-architectural-assistant-1102366/"},
+  {"date": "2026-07-09", "location": "Manchester, UK", "company": "ADP", "title": "Chartered architectural technologist or qualified architect", "salary": "Undisclosed", "link": "https://www.dezeenjobs.com/job/adp-chartered-architectural-technologist-or-qualified-architect-1102456/"}
 ];
-window.JOBS_UPDATED = "1 July 2026";
+window.JOBS_UPDATED = "9 July 2026";
