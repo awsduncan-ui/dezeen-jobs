@@ -39,6 +39,10 @@ window.JOBS_DATA = [
   {"date": "2026-07-09", "location": "Birmingham, UK", "company": "ADP", "title": "Architect", "salary": "Undisclosed", "link": "https://www.dezeenjobs.com/job/adp-architect-1101012/"},
   {"date": "2026-07-09", "location": "Edinburgh, UK", "company": "Somner Macdonald Architects", "title": "Project architect", "salary": "Undisclosed", "link": "https://www.dezeenjobs.com/job/somner-macdonald-architects-project-architect-1098342/"},
   {"date": "2026-07-09", "location": "Hampshire, UK", "company": "PAD studio", "title": "Part 2 architectural assistant", "salary": "£25,000 - £30,000", "link": "https://www.dezeenjobs.com/job/pad-studio-ltd-part-ii-architectural-assistant-1102366/"},
-  {"date": "2026-07-09", "location": "Manchester, UK", "company": "ADP", "title": "Chartered architectural technologist or qualified architect", "salary": "Undisclosed", "link": "https://www.dezeenjobs.com/job/adp-chartered-architectural-technologist-or-qualified-architect-1102456/"}
+  {"date": "2026-07-09", "location": "Manchester, UK", "company": "ADP", "title": "Chartered architectural technologist or qualified architect", "salary": "Undisclosed", "link": "https://www.dezeenjobs.com/job/adp-chartered-architectural-technologist-or-qualified-architect-1102456/"},
+  {"date": "2026-07-13", "location": "Manchester, UK", "company": "Material Source Studio", "title": "Designer – displays and exhibits", "salary": "£35,000 - £40,000", "link": "https://www.dezeenjobs.com/job/material-source-studio-designer-displays-exhibits-1104899/"},
+  {"date": "2026-07-13", "location": "Henley-on-Thames, UK", "company": "HÁM", "title": "Interior architect/CAD technician", "salary": "Undisclosed", "link": "https://www.dezeenjobs.com/job/ham-interiors-interior-architect-1104371/"},
+  {"date": "2026-07-13", "location": "Truro, UK", "company": "Kast Architects", "title": "Experienced Part 2 or newly qualified Part 3 architect", "salary": "£28,000 - £40,000", "link": "https://www.dezeenjobs.com/job/kast-architects-experienced-part-ii-or-newly-qualified-part-iii-architect-1103811/"},
+  {"date": "2026-07-13", "location": "Suffolk, UK", "company": "Iain Cochran Architects", "title": "Architect or architectural assistant (Part 2)", "salary": "£28,000 - £37,000", "link": "https://www.dezeenjobs.com/job/iain-cochran-architects-architect-or-architectural-assistant-1103357/"},
 ];
-window.JOBS_UPDATED = "9 July 2026";
+window.JOBS_UPDATED = "13 July 2026";
